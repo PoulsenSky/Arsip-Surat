@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.title {
+  font-family: Valorant;
+  padding-bottom: 30px; 
+  font-weight: bold;
+}
+
+/* END OF DEFAULT STYLING */
+
+.myform {
+    padding: 50px;
+}
+
+.card {
+    padding: 30px;
+    margin: 50px 200px 50px 200px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)
+}
+
+.HelloBG {
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logoImg {
+    width: 110px;
+    padding-right: 30px;
+}
+
+.getLeft {
+    float: left;
+}
+/* END OF LOGIN STYLING */
+
+.colorFooter {
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 100px;
+    right: 0;
+}
+/* END OF FOOTER */
