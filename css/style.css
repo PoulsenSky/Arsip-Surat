@@ -21,6 +21,17 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)
 }
 
+.card2 {
+    padding: 30px;
+    margin: 50px 200px 50px 200px;
+    height: 90px;
+    background-color:white;
+    border-radius: 10px;
+}
+
+button > .registerme { padding-left: 80px; }
+.registerme > a { color: white; } .registerme > a:hover { color: white; } .registerme > a:active { color: white; }
+
 .HelloBG {
     background-image: url("https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711");
     background-repeat: no-repeat;
@@ -35,6 +46,11 @@
 .getLeft {
     float: left;
 }
+
+.getRight {
+    float: right;
+}
+
 /* END OF LOGIN STYLING */
 
 .colorFooter {
