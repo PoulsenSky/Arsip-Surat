@@ -53,6 +53,11 @@
 			<button type="submit" class="btn btn-primary">Submit</button>
 			</form>
 		</div>
+		<div class="card2"> 
+			<p> Haven't make an account yet? Create new one!
+				<button class="btn btn-primary registerme"> <a href="register.php" class="registertext"> Make New Account </a> </button>
+			</p>
+		</div>
 
 
 
