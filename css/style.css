@@ -51,7 +51,23 @@ button > .registerme { padding-left: 80px; }
     float: right;
 }
 
+
+
+
 /* END OF LOGIN STYLING */
+
+
+.HelloBG2 {
+    background-image: url("https://thumbs.gfycat.com/HelpfulShimmeringIrrawaddydolphin-size_restricted.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* END OF REGISTER STYLING*/
+
+
+
 
 .colorFooter {
     background-color: white;
